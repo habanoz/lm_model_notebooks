@@ -6,9 +6,9 @@
 
 2- Training count based n-gram models : 
 
--[N-gram models](2_n-gram.ipynb)
+- [N-gram models](2_n-gram.ipynb)
 
--[N-gram models (Long version)](2_n-gram-long.ipynb)
+- [N-gram models (Long version)](2_n-gram-long.ipynb)
 
 3- Training neural net based (single weight vector) n-gram models:
 
