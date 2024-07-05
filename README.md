@@ -13,3 +13,23 @@
 3- Training neural net based (single weight vector) n-gram models:
 
 [NN N-gram models](3_nn-n-gram.ipynb)
+
+4- Multi Layer Perceptron based language model:
+
+[MLP LM model](4_mlp-lm.ipynb)
+
+5- Multi Layer Perceptron based language model to GPU:
+
+[GPU MLP LM model](5_mlp-lm-gpu.ipynb)
+
+6- Use micro batches to train the MLP:
+
+[Batch Gradient Descent MLP LM](6_mlp-lm-batch.ipynb)
+
+7- Move MLP code to pytorch modules:
+
+[MLP LM (Pytorch Modules)](7_mlp-lm-torch-module.ipynb)
+
+8- Use Multi-headed attention model:
+
+[Multi headed attention](8_transformer-lm-torch.ipynb)
