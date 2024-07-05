@@ -2,7 +2,7 @@
 
 1- Training a simple bi-gram models using counts and neural nets: 
 
-[Count vs Neural Net Based Bi-gram models](1_count-vs-nn-clss.ipynb)
+[Count vs Neural Net Based Bi-gram models](1_count-vs-nn-bi-gram.ipynb)
 
 2- Training count based n-gram models : 
 
