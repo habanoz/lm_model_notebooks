@@ -30,6 +30,10 @@
 
 [MLP LM (Pytorch Modules)](7_mlp-lm-torch-module.ipynb)
 
-8- Use Multi-headed attention model:
+8- Single headed attention model (No dropout):
 
-[Multi headed attention](8_transformer-lm-torch.ipynb)
+[Multi headed attention](8_attention-lm.ipynb)
+
+9- Multi-headed attention model:
+
+[Multi headed attention](9_multi-headed-attention-lm.ipynb)
